@@ -2,3 +2,5 @@
 Running through the HelloWorld guide to learn basic GitHub steps.
 
 Hope to learn how to operate semi-fleuently to contribute to MoTrPAC data analysis tasks moving forward.  
+
+Test edits for making branches, pull requests, merging, etc.
